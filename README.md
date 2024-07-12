@@ -3,3 +3,5 @@
 ---
 
 ## 1. Building ANN Model
+
+## 2. Building RNN Model
