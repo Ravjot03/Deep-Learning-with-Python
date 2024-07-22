@@ -7,7 +7,7 @@
 In this jupyter notebook, I walk through the process of building a simple artificial neural network (ANN) to classify handwritten digits using the MNIST dataset.
 
 
-## 2. [Image Classification using Convolutional Neural Network (CNN's) Model]()
+## 2. [Image Classification using Convolutional Neural Network (CNN's) Model](https://github.com/Ravjot03/Image-Classification-using-CNN)
 This project shows comparison between Artificial Neural Networks (ANN's) and Convolutional Neural Networks (CNN's) on the popular CIFAR-10 Image Classification dataset.
 
 ## 2. [Building Recurrent Neural Network (RNN) Model](https://github.com/Ravjot03/Next-Word-Prediction-using-RNN)
