@@ -17,3 +17,4 @@ This project shows comparison between Artificial Neural Networks (ANN's) and Con
 In this jupyter notebook, I have build a Next Word Prediction Model using RNN's.
 
 ## 5. [Vehicle Detection using Faster R-CNN](https://github.com/Ravjot03/Transfer-Learning-and-Bounding-Boxes)
+This project demonstrates how to detect vehicles in a video using a pre-trained Faster R-CNN model. The pipeline includes extracting frames from a video, performing object detection on each frame, drawing bounding boxes around detected vehicles, and recompiling the processed frames back into a video.
